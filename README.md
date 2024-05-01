@@ -12,17 +12,26 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages).
 -->
 
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+A Flutter package for integrating video calling functionality using the Agora RTC Engine. 
+  This package provides a simple and customizable solution for adding video call capabilities 
+  to your Flutter applications. It includes features such as muting audio/video, viewing 
+  participants, and adding new participants to the call.
 
 ## Features
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+- Integrate video calling functionality into your Flutter apps.
+- Customize video call UI according to your app's design.
+- Mute/unmute audio during the call.
+- Pause/play video during the call.
+- View participants' video streams.
+- Add new participants to the ongoing call.
 
 ## Getting started
 
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
+dependencies:
+  oa_agora_videocall: ^x.x.x
+  agora_rtc_engine: ^x.x.x
+  permission_handler: ^x.x.x
 
 ## Usage
 
@@ -35,9 +44,21 @@ const like = 'sample';
 
 ## Additional information
 
-TODO: Tell users more about the package: where to find more information, how to
-contribute to the package, how to file issues, what response they can expect
-from the package authors, and more.
+The `oa_agora_videocall` package is a Flutter package designed to integrate video calling functionality using the Agora RTC Engine. It provides a simple and customizable solution for adding video call capabilities to your Flutter applications.
+
+### Features
+
+- Mute/unmute audio during the call.
+- Pause/play video during the call.
+- View participants' video streams.
+- Add new participants to the ongoing call.
+
+### More Information
+
+- **GitHub Repository**: You can find the source code, documentation, and examples for this package on [GitHub](https://github.com/Tech-ola/oa_agora_videocall).
+- **Issues and Contributions**: To report issues, request features, or contribute to the package, please visit the [issue tracker](https://github.com/Tech-ola/oa_agora_videocall/issues).
+
+For more information, please refer to the package documentation or explore the GitHub repository.
 =======
 # oa_agora_videocall
 A Flutter package for integrating video calling functionality using the Agora RTC Engine.    This package provides a simple and customizable solution for adding video call capabilities    to your Flutter applications. It includes features such as muting audio/video, viewing    participants, and adding new participants to the call.
