@@ -39,7 +39,7 @@ TODO: Include short and useful examples for package users. Add longer examples
 to `/example` folder.
 
 ```dart
-const like = 'sample';
+ import 'package:oa_agora_videocall/oa_agora_videocall.dart';
 ```
 
 ## Additional information
