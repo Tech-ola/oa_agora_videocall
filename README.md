@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <!--
 This README describes the package. If you publish this package to pub.dev,
 this README's contents appear on the landing page for your package.
@@ -37,3 +38,7 @@ const like = 'sample';
 TODO: Tell users more about the package: where to find more information, how to
 contribute to the package, how to file issues, what response they can expect
 from the package authors, and more.
+=======
+# oa_agora_videocall
+A Flutter package for integrating video calling functionality using the Agora RTC Engine.    This package provides a simple and customizable solution for adding video call capabilities    to your Flutter applications. It includes features such as muting audio/video, viewing    participants, and adding new participants to the call.
+>>>>>>> 552ee8bf0b3003f395c297a5480a90a496aaa60c
